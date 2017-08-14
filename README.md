@@ -6,6 +6,8 @@ Uses RxJS for composing the HTML5 canvas' `mousedown`, `mousemove`, and `mouseup
 
 Take a look at `script.js` to see how it all looks.
 
+[View the Plunker](https://plnkr.co/edit/nHFyGJhlXzAhVfwBKYBN?p=preview).
+
 ## License
 
 The license is located in this repository's `LICENSE` file. But as a summary, it's licensed under MIT.
